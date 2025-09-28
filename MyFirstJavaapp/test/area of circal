@@ -1,0 +1,11 @@
+
+package myfirstjavaapp;
+import static java.lang.Math.PI;
+import java.util.Scanner;
+public class MyFirstJavaapp {
+public static vide mina(Sting[] args){
+    
+    }
+}
+
+
