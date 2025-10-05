@@ -1,0 +1,18 @@
+
+package myfirstjavaapp;
+
+import java.util.Scanner;
+public class MyFirstJavaapp {
+
+    public static void main(String[] args) {
+System.out.println("enter the seconds..");
+int seconds=new Scanner(System.in).nextInt();
+int minutes=seconds/60;
+int remainingsecond=seconds%60;
+System.out.println(seconds+"  seconds is  "+minutes+"  minutes and  "+remainingsecond+"  seconds");
+
+
+    }
+}
+
+
